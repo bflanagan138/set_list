@@ -4,3 +4,8 @@ class ArtistSongsController < ApplicationController
     @songs = @artist.songs
   end
 end
+
+
+
+
+
